@@ -644,3 +644,10 @@ Here's the continuation of the SQL queries for tasks 23 to 42:
     ```
 
 ---
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to me at:
+- **Name**: Rakshit Gupta
+- **ID**: CT_CSI_SQ_4156
+- **Email**: guptarakshit9858@gmail.com
+- **LinkedIn**: [Rakshit Gupta](https://www.linkedin.com/in/rakshit9/)
