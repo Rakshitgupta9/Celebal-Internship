@@ -16,7 +16,7 @@ INSERT INTO HZL_Table (Date, BU, Value) VALUES
 ('2024-05-01', 'SC', 345),
 ('2024-06-01', 'SC', NULL);
 
-SELECT * from HZL_Table;
+SELECT * FROM HZL_Table; --ORIGINAL
 
 WITH CTE AS (
     SELECT
@@ -47,6 +47,8 @@ RECURSIVE_CTE AS (
         CTE
     JOIN
         RECURSIVE_CTE ON CTE.BU = RECURSIVE_CTE.BU AND CTE.RN = RECURSIVE_CTE.RN + 1
+    WHERE
+        CTE.Value IS NULL
 )
 SELECT
     Date,
@@ -56,4 +58,5 @@ FROM
     RECURSIVE_CTE
 ORDER BY
     BU,
-    Date;
+    Date,
+    RN;
