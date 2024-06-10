@@ -87,6 +87,11 @@ The table `HZL_Table` contains the following columns:
 
 Run the above SQL script in your preferred SQL environment to create the table, insert data, and replace `NULL` values. The script will ensure that all `NULL` values in the `Value` column are replaced by the previous non-`NULL` value within the same business unit (BU).
 
+
+## Screenshot 
+
+![image](https://github.com/Rakshitgupta9/Celebal-Internship/assets/95240061/ab811158-ccab-4261-8b02-373afcd42ceb)
+
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at:
