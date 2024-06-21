@@ -133,7 +133,7 @@ INSERT INTO Hackers (hacker_id, name) VALUES
 (2, 'Bob'),
 (3, 'Charlie');
 ```
-
+[Rakshit Gupta](https://github.com/Rakshitgupta9/Celebal-Internship)
 ### Task 6: STATION
 ```sql
 CREATE TABLE STATION (
