@@ -239,3 +239,6 @@ WHERE NOT EXISTS (
     FROM TargetTable
     WHERE TargetTable.KeyColumn = SourceTable.KeyColumn
 );
+
+
+--ID: CT_CSI_SQ_4156
