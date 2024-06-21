@@ -1,3 +1,5 @@
+[Rakshit Gupta](https://github.com/Rakshitgupta9/Celebal-Internship)
+
 # SQL Solutions for Assignment - Level C Task
 
 ## Tables Required for the activity
