@@ -1,4 +1,4 @@
-# Elective Allocation System
+# Student Allotment SQL Problem
 
 This project implements an elective allocation system using SQL. The system allocates elective subjects to students based on their GPA and preferences.
 
