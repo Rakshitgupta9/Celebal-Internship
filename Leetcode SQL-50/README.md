@@ -106,13 +106,13 @@ The solutions are organized in the following structure:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Rakshitgupta9/Leetcode-SQL-50.git
+git clone https://github.com/Rakshitgupta9/Celebal-Internship/
 ```
 
 2. Navigate to the directory:
 
 ```bash
-cd Leetcode-SQL-50
+cd Leetcode SQL-50
 ```
 
 3. Open the SQL file for the problem you want to review.
